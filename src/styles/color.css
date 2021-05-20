@@ -1,0 +1,14 @@
+:root {
+  --main-secondry: #707070;
+  --common: #ffffff;
+  --shadow: #00000029;
+  --action-success: #6c63ff;
+  --action-error: #e97b86;
+  --background: #f5f4f4;
+  --main-tertiary: #f2f4f8;
+  --main-dark: #343a40;
+  --main-accent: #95ebc2;
+  --main-base: #dfc4a4;
+  /* 名前テキトー */
+  --sub-common: #bbbbbb;
+}

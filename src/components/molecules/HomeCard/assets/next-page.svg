@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="19.877" viewBox="0 0 15 19.877">
+  <g id="ico-caret" transform="translate(15) rotate(90)">
+    <rect id="base" width="15" height="15" transform="translate(0 0)" fill="none"/>
+    <path id="select" d="M0,8.207,8.24,0l7.93,8.207" transform="translate(3 5.629)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>
